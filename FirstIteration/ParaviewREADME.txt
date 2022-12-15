@@ -1,0 +1,1 @@
+The fusedData.csv file should be in this directory to successfully load the fusionVisual.pvsm state into Paraview.
